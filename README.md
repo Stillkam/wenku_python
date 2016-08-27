@@ -1,14 +1,12 @@
 ## Project：百度文库自动签到
 
-### By:13307130342向杰
+### By:stillkam
 
 ### Program Language:python
 
 2015.11.29
 
-- 说明：
-  - 为了使程序能够运行在各种平台上，因此没有打包成exe文件，这也是python的便利之一
-  - 应该来说是没有BUG了，万一不能使用请联系*1330713034@fudan.edu.cn*
+
 - 使用方法：
 
   - 安装python
